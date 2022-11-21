@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# MAC and WINDOWS system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+.nfs*
+**/.nfs*
